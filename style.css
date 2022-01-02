@@ -130,8 +130,7 @@ li{
 .about-me__img--container {
     flex: 1;
     display: flex;
-    justify-content: center;
-    max-width: 600px;
+    align-items: center;
   }
 
 .about-me__img{
