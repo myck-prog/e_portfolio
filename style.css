@@ -429,9 +429,7 @@ footer {
     .nav__link:not(:last-child) {
       display: none;
     }
-    .row{
-        padding: 8px;
-    }
+   
     .project__wrapper {
       border-radius: 0;
     }
