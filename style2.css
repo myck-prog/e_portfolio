@@ -1,0 +1,26 @@
+*{
+    background-color: (241, 1rgb10, 110);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li{
+    list-style-type: none;
+}
+nav{
+    display: flex;
+    height: 100;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-content: center;
+}
+.nav__link--list{
+    display: flex;
+    flex-direction: row;
+}
+.nav__link--anchor{
+    margin-left: 8px;
+}
