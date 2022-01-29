@@ -179,8 +179,9 @@ li{
 .about-me__picture{
     width: 100%;
     /* Improving my own pictures */
-    transform: scale();
-    padding-left: 6px
+    transform: scale(1.5);
+    padding-top: 15px;
+    padding-left: 1px
 }
 .about-me__info--title{
     margin-bottom:16px;
