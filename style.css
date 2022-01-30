@@ -463,4 +463,6 @@ footer {
   }
   
   
-  
+  .footer__logo--img{
+    filter: invert();
+  }
